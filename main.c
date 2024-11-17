@@ -49,6 +49,9 @@ int main() {
     printf("Lista hacia atrás:\n");
     print_backward(list);
 
+    printf("Lista hacia adelante:\n");
+    print_forward(list);
+
     // Liberar memoria
     free_list(list);
 
