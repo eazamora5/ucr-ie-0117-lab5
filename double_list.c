@@ -2,7 +2,7 @@
 //IE-0117 Programacion bajo plataformas abiertas
 //Profesora: Carolina Trejos
 //Estudiante: Enrique Zamora Solis
-//Laboratorio 5
+//Laboratorio 5 - Double_list.c
 
 #include <stdio.h>
 #include <stdlib.h>

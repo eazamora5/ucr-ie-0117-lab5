@@ -2,7 +2,7 @@
 //IE-0117 Programacion bajo plataformas abiertas
 //Profesora: Carolina Trejos
 //Estudiante: Enrique Zamora Solis
-//Laboratorio 5
+//Laboratorio 5 - Double-list.h
 
 #ifndef DOUBLE_LIST_H
 #define DOUBLE_LIST_H
